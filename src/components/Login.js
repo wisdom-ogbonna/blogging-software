@@ -34,7 +34,7 @@ function Login() {
                     }
                     label="Remember me"
                 />
-                <Button type="submit" fullWidth color="primary" variant="contained">SignIn</Button>
+                <Button type="submit" fullWidth color="primary" variant="contained">Sign In</Button>
                 <Typography>
                     <Link href="#" >
                     Forgot Password
@@ -42,7 +42,7 @@ function Login() {
                 </Typography>
                 <Typography>do you have an account?
                     <Link href="#" >
-                    SignUp
+                    Sign Up
                     </Link>
                 </Typography>
 
